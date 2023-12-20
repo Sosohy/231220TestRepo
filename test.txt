@@ -1,7 +1,8 @@
 public class Car{
 	public static void main(String[] args){
-
-	System,out.println("우하하하 다시 수정했지롱 또 수정했지롱~~~");
+		System,out.println("우하하하 다시 수정했지롱 또 수정했지롱~~~");
+		System.out.println("아주 나이스~ 빠라밤빠라밤바라바라밤");
 	}
+
 
 }
